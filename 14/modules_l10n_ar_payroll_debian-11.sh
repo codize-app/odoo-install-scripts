@@ -3,7 +3,7 @@
 echo GET MODULES FROM GIT
 echo -----------------
 cd /opt/odoo/sources
-sudo git clone https://github.com/OCA/hr -b 14.0
+sudo git clone https://github.com/nimarosa/hr -b 14.0
 sudo git clone https://github.com/OCA/hr-expense -b 14.0
 sudo git clone https://github.com/OCA/hr-holidays -b 14.0
 sudo git clone https://github.com/OCA/connector-telephony -b 14.0
