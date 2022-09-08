@@ -25,13 +25,13 @@ echo INSTALLING POSTGRESQL
 echo -----------------------
 sudo adduser --system --home=/opt/odoo --group odoo
 sudo apt-get install -y postgresql
-sudo su postgres
 echo CREATE ODOO DATABASE:
 echo createuser --createdb --username postgres --no-createrole --no-superuser --pwprompt odoo
 echo psql
 echo ALTER USER odoo WITH SUPERUSER;
 echo \q
 echo exit
+sudo su postgres
 
 echo ODOO
 echo -----------------------
