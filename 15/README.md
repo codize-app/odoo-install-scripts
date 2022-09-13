@@ -1,4 +1,4 @@
-# Odoo 14
+# Odoo 15
 
 ## Odoo Installation
 
