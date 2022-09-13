@@ -11,7 +11,7 @@ sudo git clone https://github.com/OCA/web -b 14.0
 sudo git clone https://github.com/OCA/account-reconcile -b 14.0
 sudo git clone https://github.com/ExemaxSAS/helpdesk_button -b 14.0
 sudo git clone https://github.com/CybroOdoo/CybroAddons -b 14.0
-sudo git clone https://github.com/ExemaxSAS/om_account_accountant -b 14.0
+sudo git clone https://github.com/odoomates/odooapps -b 14.0
 sudo git clone https://github.com/codize-app/odoo-argentina-withholding -b 14.0
 
 echo SETTINGS MODULES
